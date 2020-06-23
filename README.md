@@ -1,4 +1,4 @@
-# OLX.ro-PhoneNumberScrapper
+# OLX-PhoneNumberScrapper
 
 The code presented here was published to serve as a point of reference for those interested in developing their own program.
 
