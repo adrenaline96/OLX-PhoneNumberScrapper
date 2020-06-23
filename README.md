@@ -4,8 +4,7 @@ The code presented here was published to serve as a point of reference for those
 
 The "ExtractAd" method takes a list of links in this format:
 <br>"https://www.olx.ro/auto-masini-moto-ambarcatiuni/?page=<<page_number>>"
-
-It returns a list with ads that it finds. 
+<br>It returns a list with ads that it finds. 
 
 The "ExtractNumbers" method takes the list of ads you gathered earlier, and populates a ListView with with phone numbers and corresponding user names.
 
