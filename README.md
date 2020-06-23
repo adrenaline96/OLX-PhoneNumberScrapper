@@ -1,6 +1,6 @@
 # OLX-PhoneNumberScrapper
 
-The code presented here was published to serve as a point of reference for those interested in developing their own program.
+The code presented here was published to serve as a point of reference for those interested in developing their own program. HtmlAgilityPack was used.
 
 The "ExtractAd" method takes a list of links in this format:
 <br>"https://www.olx.ro/auto-masini-moto-ambarcatiuni/?page=<<page_number>>"
